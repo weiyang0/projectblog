@@ -6,3 +6,4 @@ A simple blog website. This project was to learn about how to approach building 
 
 - HTML
 - CSS
+- Responsive design
