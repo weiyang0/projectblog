@@ -16,7 +16,7 @@ A simple blog website. This project was to learn about how to approach building 
 
 For the most part, there were not many difficulties during the process. The CSS styling was still manageable, but it took a while to figure it out at times, especially when using flexbox.
 
-## Overview
+## Technhologies overview
 
 - HTML
 - CSS
